@@ -1,0 +1,6 @@
+### [01. Linear Models & Optimization Dynamics](./01-Linear-Models-Optimization)*   **Focus:** Parameter estimation, Convergence analysis, and Generalization.
+*   **Description:** A deep dive into linear regression using the Ames Housing dataset. This project moves beyond high-level APIs to explore the mechanics of how models learn.
+*   **Key Implementations:**
+    *   **Iterative Optimization:** Developed a multi-parameter **Gradient Descent** algorithm from scratch, deriving partial derivatives to minimize the Mean Squared Error (MSE) loss surface.
+    *   **Analytical Solvers:** Implemented **Ordinary Least Squares (OLS)** using the Normal Equation ($a = (X^T X)^{-1} X^T y$) via NumPy matrix inversion, benchmarking exact solutions against iterative convergence.
+    *   **Statistical Evaluation:** Performed correlation studies on high-dimensional features and utilized **RMSE (Root Mean Squared Error)** to analyze model generalization and the bias-variance tradeoff between training and test distributions.

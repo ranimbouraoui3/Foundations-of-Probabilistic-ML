@@ -20,5 +20,5 @@ These projects serve as technical evidence for my application to the **AScI Summ
 
 ## Technical Stack
 *   **Languages:** Python
-*   **Frameworks:** PyTorch, JAX (Foundations), TensorFlow/Keras
+*   **Frameworks:** PyTorch, TensorFlow/Keras
 *   **Tools:** NumPy, Pandas, Matplotlib, OpenCV

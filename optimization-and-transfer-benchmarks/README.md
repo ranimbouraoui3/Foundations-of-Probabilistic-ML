@@ -26,8 +26,8 @@ This project investigates the trade-offs between **parameter efficiency** and **
 ### Results:
 | Model | Parameter Count | Training Speed | Validation Accuracy |
 | :--- | :--- | :--- | :--- |
-| MobileNetV2 | ~2.2M | High | X.X% |
-| ResNet50 | ~23.5M | Moderate | Y.Y% |
+| MobileNetV2 | ~2.2M | High | 35.59% |
+| ResNet50 | ~23.5M | Moderate | 90.37% |
 
 ## Research Significance
 Understanding optimizer stability and architectural trade-offs is fundamental to the **AScI Project 4207**, particularly when dealing with **large-scale models** and **generative modeling (Diffusion)**. Efficient inference starts with selecting the right backbone and optimizer, and these benchmarks provide the empirical evidence for those decisions.

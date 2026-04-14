@@ -2,7 +2,6 @@
 
 This repository contains a series of foundational studies in Machine Learning, 
 focusing on the transition from deterministic engineering to uncertainty-aware research. 
-These projects serve as technical evidence for my application to the **AScI Summer Research Program.**
 
 ## Repository Structure
 
